@@ -8,6 +8,7 @@ public class ShopSmartK4Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ShopSmartK4Application.class, args);
+		System.out.println("Started...");
 		
 	}
 
